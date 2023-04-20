@@ -14,7 +14,7 @@
   } 
 
   header, main, footer{
-max-width: 1000px;
+max-width:var(--larguramaxima);
 min-width: var(--larguraminima);
 margin: auto;
 padding:5px;
@@ -46,7 +46,7 @@ top: 40px;
     background-color: brown;
     height: 300px;
     width: 100%;
-   background-image: url('WhatsApp\ Image\ 2023-04-18\ at\ 3.24.11\ PM.jpeg') ;
+   background-image: url('images/bg-fantasia.jpg') ;
     background-repeat: no-repeat;
     background-size:cover;
     display: flex;
