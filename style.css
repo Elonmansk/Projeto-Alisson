@@ -61,17 +61,17 @@ top:40px;
   #fotodeperfil{
     width:40px;
     left: 20px;
-    top:10px;
+    top:100px;
     position: absolute;
-    border-radius: 40px;
+    border-radius: 30px;
   }
 
 #capa h1{
-  color: rgb(243, 3, 163);
+  color: rgb(2, 196, 255);
 }
 
 #capa p{
-  color: rgb(221, 7, 157);
+  color: rgba(9, 163, 235, 0.678);
 }
 
 /*-----------------BOTÔES DO MENU----------------------*/
@@ -98,7 +98,7 @@ justify-content: space-between;
 }
 
 span{
-  color: rgb(225, 0, 255);
+  color: rgb(4, 0, 255);
 }
 .colunas{
   column-count: 3;
