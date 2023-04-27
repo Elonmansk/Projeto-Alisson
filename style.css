@@ -103,3 +103,25 @@ span{
 .colunas{
   column-count: 3;
 }
+
+
+iframe{
+  
+  border: solid; color: rgb(0, 0, 0);
+} 
+  
+
+.Filmes{
+  width:50%;
+  background-color: firebrick;
+  border:15px solid black;
+  border-radius: 20px;
+  text-align: justify;
+  padding: 5px;
+  margin: auto;
+  margin-top:6px;
+}
+.Poster{
+  width: 100%;
+  
+}
