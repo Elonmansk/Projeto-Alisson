@@ -30,7 +30,7 @@ top:40px;
     justify-content: center;
     position: absolute;
     right: 20px;
-    top: 15px;
+    top: 25px;
   }
 
   .social{
@@ -60,10 +60,10 @@ top:40px;
 
   #fotodeperfil{
     width:40px;
-    left: 25px;
-    top:30px;
+    left: 30px;
+    top:25px;
     position: absolute;
-    border-radius: 30px;
+    border-radius: 5px;
   }
 
 #capa h1{
